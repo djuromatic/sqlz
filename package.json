@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-cli",
+  "name": "@djuromatic/sqlz",
   "version": "5.5.1",
   "description": "The Sequelize CLI",
   "bin": {
